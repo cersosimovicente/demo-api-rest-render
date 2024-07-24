@@ -1,5 +1,0 @@
-net\laboratorio\demo_api_rest\repository\StudentRepository.class
-net\laboratorio\demo_api_rest\servicio\StudentService.class
-net\laboratorio\demo_api_rest\DemoApiRestApplication.class
-net\laboratorio\demo_api_rest\controller\StudentController.class
-net\laboratorio\demo_api_rest\entity\Student.class
